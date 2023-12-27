@@ -23,3 +23,4 @@ github_pat = "a9cbecdfdf953ec9b3b82dbc3b807cde2b06b445"
 "git+https://neriuser:a9cbecdfct953cc9b3b82dbc3b807cde2b06b445@github.com/ReferenceME/RefMEStyleGuide.git#1.0.9"
 "https://a9deebdfdf953ee9b3b82gbc36787hde2b06b886:x-oauth-basic@github.com/ReferenceME/RefMEStyleGuide.git/sdf"
 "run git clone https://<username>:a9cbecdfct953cc9b3b86dbc3b807cde2b066445@github.com/doitintl/qwilt.git/"
+github_pat="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
