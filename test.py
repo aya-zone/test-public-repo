@@ -11,5 +11,5 @@ cosmosDbToken: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29we
 AzureCosmosPassword: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
 AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey=Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
 
-AzureCosmosDbClient = "https://mycosmosaccount.documents.azure.com:443/;AccountKey=<KEY HERE>"
+AzureCosmosDbClient = "https://todiaccount56.documents.azure.com:443/;AccountKey=<KEY HERE>"
 
