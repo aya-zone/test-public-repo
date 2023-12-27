@@ -1,6 +1,7 @@
 import requests
 
 password = "AIzaSyCzmABOfcTbibaP_VmZPsFn0q3Ro2sXlHQ"
+password = "AIzaSyCzmABOfcTbibbP_VmZPsFn0q3Ro2sXlHQ"
 
 response = requests.get('http://google.com', {'password': password})
 aws.secretaccesskeyid: "AKIAUHD5AAQAAAAQAY1Z"
