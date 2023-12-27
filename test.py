@@ -6,3 +6,10 @@ password = "AIzaSyCzmABOfcTbibbP_VmZPsFn0q3Ro2sXlHQ"
 response = requests.get('http://google.com', {'password': password})
 "AWS_ACCESS_KEY_ID": "AKIAUHD5AAQAAAAQAY1Z"
 amazon = "amzn.mws.17abcde4-f3a4-c45b-c2dd-2a5e6c7d22ca"
+AzureToken: 'Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==' //AzureSecret
+cosmosDbToken: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
+AzureCosmos: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
+AccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey=Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
+
+new CosmosClient("https://mycosmosaccount.documents.azure.com:443")
+
