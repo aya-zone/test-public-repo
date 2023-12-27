@@ -13,9 +13,4 @@ AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey
 
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
-CLOJARS_6be7c956ed9581f44c386d3e469ff21e3e4ccb47c83342cfa360f04b435c
-
-dp.st.prd.5iSgsylLUh1Z7gWGbCbWbO8SHSxs3wkdkYAYE3Ik #ServiceToken
-dp.pt.SM9IkgP9n3UdOCiW2m6iLnGIS9rEKUN5C1kwiUSv #PersonalToken
-dp.ct.Hz53zCklAAldpZywPRaXPaaYlABV4T7rKgtvyhLG #DopplerCliToken
-dp.scim.IcgO4od2ONhDCys5tEGOouUJ7ESDCevePjks0ymo #ScimToken
+AccessKey : sl.Bia6AMXdKF_m63pGFYe9Yuxgb59FyThPXKPxZaW-6zfsut08ZCcVf8ptT8m61zSk3qi_wMEMADO1J9Eyzz-Z5DaKH7P1y59FqX6VgStdAzV-OPSzcvFul1jPilpe69aFmUDXK75
