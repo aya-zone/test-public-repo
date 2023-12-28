@@ -14,15 +14,12 @@ AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey
 
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
-client_id: 537478574101-4jl4d9jikg9ikn4rtcbr3sfnlt6cqce4.apps.googleusercontent.com #googleoauthid
-"client_id": "537478574101-4jl4d9jikg9ikn4rtcbr3sfnlt6cqce4.apps.googleusercontent.com" #googleoauthid
 google_access_token : "ya29.AHES67zeEn-RDg9AC5gGKMLKuG4uVB7W4O4WjNr-NBfY6Dyer4vbIZ" #googleoauth
-"client_secret" : "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" #GoogleOAuthSecret
 'https://chat.googleapis.com/v1/spaces/AAAAH1W-wEM/messages?key=AIzaSyBbI0tEjhCZ6vySMm-WEfRttK3CPzttsHI&token=CalMPzURGJeIDs7yjM6V-nfK2xjoKYb297Omk_wI9Gs%3D'
 google_captcha = 'enc:system.encryption.key.v1:6Lgilge7ExVIvZPqmf1aPtFAh1WAQEQdEv5BCtua'
 google_oauth_refresh_token = 'enc:system.encryption.key.v1:6Lgyrge7ExVIvZPqmf1aPtFAh1WAQEQdEv6BCfao'
 google_oauth_access_token = "ya29.AHES52zeEn-RDg7CA9gGKMLKuG3uVB7W1O1WjNr-NBfY5Dtad3vbIZ"
-- text: |
-    {"installed":{"client_id":"332292536747-zbepioq1127w4lv5r6dbbddd0jdbdchl.apps.googleusercontent.com","project_id":"test-1551099712230","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"daAKAFW-bt05isOoQwwWP8c-","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
-  client_id: 332292536747-zbepioq1127w4lv5r6dbbddd0jdbdchl.apps.googleusercontent.com
-  client_secret: daAKAFW-bt05isOoQwwWP8c-
+
+grafana_sa_token = "glsa_Vyci1dSmp1xaSMqIma4wlc1f1mBzCzX6_a674d176"
+cloudApiKey = 'glc_eyJvIjoiODk5MzE4IiwibiI6InR0LWYiLCJrIjoia59zM0h5M1VBRUkxVzAxeEVvMDEyUFMxIiwibSI5eyJyIjoidXMifX0='
+string grafanaApiToken = "eyJrIjoiNDA9MDMyMjc7MDhlODcwZmE1MTJmNmQ6OGEwMzJjZjQ0ZmRhYmJlMyIsIm4iOiJUb36lciBOYXRhbnpvbjEiLCJpZCI6ODk5MzE6fQ"
