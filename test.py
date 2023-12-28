@@ -10,27 +10,6 @@ AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey
 
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
-google_access_token : "ya29.AHES67zeEn-RDg9AC5gGKMLKuG4uVB7W4O4WjNr-NBfY6Dyer4vbIZ" #googleoauth
-'https://chat.googleapis.com/v1/spaces/AAAAH1W-wEM/messages?key=AIzaSyBbI0tEjhCZ6vySMm-WEfRttK3CPzttsHI&token=CalMPzURGJeIDs7yjM6V-nfK2xjoKYb297Omk_wI9Gs%3D'
-google_captcha = 'enc:system.encryption.key.v1:6Lgilge7ExVIvZPqmf1aPtFAh1WAQEQdEv5BCtua'
-google_oauth_refresh_token = 'enc:system.encryption.key.v1:6Lgyrge7ExVIvZPqmf1aPtFAh1WAQEQdEv6BCfao'
-google_oauth_access_token = "ya29.AHES52zeEn-RDg7CA9gGKMLKuG3uVB7W1O1WjNr-NBfY5Dtad3vbIZ"
-
-grafana_sa_token = "glsa_Vyci1dSmp1xaSMqIma4wlc1f1mBzCzX6_a674d176"
-- text: grafana_sa_token=glsa_bAHjRcDfeZDKu0OqlR41bIbfCW9icC6b_6c3478fb
-  apikey: glsa_bAHjRcDfeZDKu0OqlR41bIbfCW9icC6b_6c3478fb
-cloudApiKey = 'glc_eyJvIjoiODk5MzE4IiwibiI6InR0LWYiLCJrIjoia59zM0h5M1VBRUkxVzAxeEVvMDEyUFMxIiwibSI5eyJyIjoidXMifX0='
-string grafanaApiToken = "eyJrIjoiNDA9MDMyMjc7MDhlODcwZmE1MTJmNmQ6OGEwMzJjZjQ0ZmRhYmJlMyIsIm4iOiJUb36lciBOYXRhbnpvbjEiLCJpZCI6ODk5MzE6fQ"
-- text: |
-    // Add grafana_TOKEN to your environment variables
-    string token = "eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk"
-  apikey: eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk
-{"id":2,"name":"my-service-account-token","key":"glsa_9244xlVFZK0j8Lh4fU8Cz6Z5tO664zIi_7a762939"}%
-
-curl -X POST -H "Content-Type: application/json" -d '{"name": "my-api-key", "role": "Viewer"}' http://admin:admin@localhost:3000/api/auth/keys
-
-# response from the api
-{"id":2,"name":"my-api-key","key":"eyJrIjoiTFRSN1RBOVc3SGhjblc0bWZodXZ3MnNDcU92Um5VZUIiLKJuIjoibXktYXBpLWtleSIsImlkIjoxfQ=="}%
 #hashicorp:
 - text: |
     spring.cloud.vault.token=hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
