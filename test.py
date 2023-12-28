@@ -21,5 +21,7 @@ google_oauth_refresh_token = 'enc:system.encryption.key.v1:6Lgyrge7ExVIvZPqmf1aP
 google_oauth_access_token = "ya29.AHES52zeEn-RDg7CA9gGKMLKuG3uVB7W1O1WjNr-NBfY5Dtad3vbIZ"
 
 grafana_sa_token = "glsa_Vyci1dSmp1xaSMqIma4wlc1f1mBzCzX6_a674d176"
+- text: grafana_sa_token=glsa_bAHjRcDfeZDKu0OqlR41bIbfCW9icC6b_6c3478fb
+  apikey: glsa_bAHjRcDfeZDKu0OqlR41bIbfCW9icC6b_6c3478fb
 cloudApiKey = 'glc_eyJvIjoiODk5MzE4IiwibiI6InR0LWYiLCJrIjoia59zM0h5M1VBRUkxVzAxeEVvMDEyUFMxIiwibSI5eyJyIjoidXMifX0='
 string grafanaApiToken = "eyJrIjoiNDA9MDMyMjc7MDhlODcwZmE1MTJmNmQ6OGEwMzJjZjQ0ZmRhYmJlMyIsIm4iOiJUb36lciBOYXRhbnpvbjEiLCJpZCI6ODk5MzE6fQ"
