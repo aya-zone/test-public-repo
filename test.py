@@ -50,5 +50,4 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-rubygems_api_key: rubygems_123abc01a15f32b0be0103de4c9b3dcb3f2fea0fa8a84f23
-Postman:PMAK-64ae68ef074edf00463a0b81-37a191bbcccf96f42384c0d37138b31234
+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
