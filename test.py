@@ -19,3 +19,4 @@ google_access_token : "ya29.AHES67zeEn-RDg9AC5gGKMLKuG4uVB7W4O4WjNr-NBfY6Dyer4vb
 "client_secret" : "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" #GoogleOAuthSecret
 'https://chat.googleapis.com/v1/spaces/AAAAH1W-wEM/messages?key=AIzaSyBbI0tEjhCZ6vySMm-WEfRttK3CPzttsHI&token=CalMPzURGJeIDs7yjM6V-nfK2xjoKYb297Omk_wI9Gs%3D'
 google_captcha = 'enc:system.encryption.key.v1:6Lgilge7ExVIvZPqmf1aPtFAh1WAQEQdEv5BCtua'
+google_oauth_access_token = "ya29.AHES52zeEn-RDg7CA9gGKMLKuG3uVB7W1O1WjNr-NBfY5Dtad3vbIZ"
