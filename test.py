@@ -70,3 +70,10 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
   apikey: NRAK-LNB46ALXJKTKRMT23FZJGSKV0HT
 
 new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
+- text: |
+    "admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
+  apikey: NRAA-4780f48c46df5882dbec0fd81c7
+
+- text: |
+    "newrelic admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
+  apikey: NRAA-4780f48c46df5882dbec0fd81c7
