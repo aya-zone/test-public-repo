@@ -35,3 +35,11 @@ curl -X POST -H "Content-Type: application/json" -d '{"name": "my-api-key", "rol
 
 # response from the api
 {"id":2,"name":"my-api-key","key":"eyJrIjoiTFRSN1RBOVc3SGhjblc0bWZodXZ3MnNDcU92Um5VZUIiLKJuIjoibXktYXBpLWtleSIsImlkIjoxfQ=="}%
+
+- text: |
+    spring.cloud.vault.token=hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
+  apikey: hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
+
+- text: |
+    VAULT_CLIENT_TOKEN="s.Z4bTMtngfLeQ18AqVoBBkUAOD1"
+  apikey: s.Z4bTMtngfLeQ18AqVoBBkUAOD1
