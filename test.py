@@ -51,11 +51,5 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
 - text: |
-    openai.api_key = "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"
-  apikey: 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
-- text: |
-    TOKEN=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
-  apikey: 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
-- text: |
-    OPENAPI_API_KEY=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
-  apikey: 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
+    password: pscale_pw_at5EOBhWFbGE_8ogeb6nLeh0pDJGr9og_Wltgq4waM7
+  password: pscale_pw_at5EOBhWFbGE_8ogeb6nLeh0pDJGr9og_Wltgq4waM7
