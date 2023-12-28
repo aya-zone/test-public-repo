@@ -50,6 +50,6 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-- text: 'stripe_wh_secret: whsec_VV1cfC0WFqnTPzHIAYUnnDS0t9g8I3Az'
-  apikey: whsec_VV1cfC0WFqnTPzHIAYUnnDS0t9g8I3Az
-
+    var Twilio = require('twilio'); +var fs = require('fs'); +var path = require('path'); + +var apiKeySid='SK1fe059e17c773de4c071a57f9f975873'; +var apiKeySecret='4BDNaWxPP5naXdt54Fb4KwAWkfNohej8'
+  client_id: 'SK1fe059e17c773de4c071a57f9f975873'
+  client_secret: '4BDNaWxPP5naXdt54Fb4KwAWkfNohej8'
