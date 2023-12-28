@@ -14,3 +14,4 @@ AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
 client_id: 537478574101-4jl4d9jikg9ikn4rtcbr3sfnlt6cqce4.apps.googleusercontent.com
+"client_id": "537478574101-4jl4d9jikg9ikn4rtcbr3sfnlt6cqce4.apps.googleusercontent.com"
