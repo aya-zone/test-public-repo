@@ -68,3 +68,5 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: |
     "new_relic Service value: NRAK-LNB46ALXJKTKRMT23FZJGSKV0HT"
   apikey: NRAK-LNB46ALXJKTKRMT23FZJGSKV0HT
+
+new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
