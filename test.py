@@ -40,14 +40,6 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 
   
 #newrelic:
-- text: |
-    "Service value: NRAK-LNB46ALXJKTKRMT23FZJGSKV0HT"
-  apikey: NRAK-LNB46ALXJKTKRMT23FZJGSKV0HT
-
-- text: |
-    "new_relic Service value: NRAK-LNB46ALXJKTKRMT23FZJGSKV0HT"
-  apikey: NRAK-LNB46ALXJKTKRMT23FZJGSKV0HT
-
 new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
 - text: |
     "admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
@@ -56,3 +48,28 @@ new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
 - text: |
     "newrelic admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
   apikey: NRAA-4780f48c46df5882dbec0fd81c7
+
+#newrelic1:
+- text: 'newrelic.license="8722b5ba69b65e1ebbd98ffed2754c7e10320730'
+  apikey: 8722b5ba69b65e1ebbd98ffed2754c7e10320730
+- text: 'newrelic license_key: b983cd792c02f2e2cd3c896c826f6b156b44137f'
+  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
+- text: 'newrelic license_key:b983cd792c02f2e2cd3c896c826f6b156b44137f'
+  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
+- text: "new relic license_key: 'b983cd792c02f2e2cd3c896c826f6b156b44137f'"
+  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
+- text: "new_relic license_key='b983cd792c02f2e2cd3c896c826f6b156b44137f'"
+  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
+- text: "new-relic license_key b983cd792c02f2e2cd3c896c826f6b156b44137f'"
+  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
+- text: '& "c:\newrelic\install.cmd" -LicenseKey 5b770a55f62576aeebc63fb31ee3fb73d134ab44 -InstrumentAll'
+  apikey: 5b770a55f62576aeebc63fb31ee3fb73d134ab44
+- text: 'ENV NEWRELIC_KEY af692bf0c7e064b9f1cd4a207ff5e7431203b6cb'
+  apikey: af692bf0c7e064b9f1cd4a207ff5e7431203b6cb
+- text: |
+    api.newrelic.com/deployments.xml',
+             'key' => [
+                    'x-api-key' => '67da5cddd6995dfe8bb628434a43b2fa5aabdedf
+  apikey: 67da5cddd6995dfe8bb628434a43b2fa5aabdedf
+- text: newrelic.license="8722b5ba69b65e1ebbd98ffed2754c7e10320730
+  apikey: 8722b5ba69b65e1ebbd98ffed2754c7e10320730
