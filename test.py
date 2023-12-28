@@ -58,5 +58,6 @@ curl -X POST -H "Content-Type: application/json" -d '{"name": "my-api-key", "rol
 
 token = "hvs.CAESIAVOUNSKFoTnRYghjutnkl7bYyI0YFINKf1BEInyd63PG1gKImk3cy9IDmJTtLJLOEZ2QYp6bUY5c0MCcLJvS1ouenF9YJkQqNks"
 
-
 hashicorp_token = "hvs.CAESIJRM-T1q5lEjIWux1Tjx-sVGqAYAww3FZtbp1wpD3Ym3pGh3KHGh9cy5TSjRndGoxaU32NzNscm4MSlRLQXZ0ZGg"
+
+jd_cloud_kry = 'snowflake.jdbc.password=B95267B8-8585-1936-94B0-960afa0409da'
