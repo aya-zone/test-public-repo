@@ -38,69 +38,14 @@ hashicorp_token = "hvs.CAESIJRM-T1q5lEjIWux1Tjx-sVGqAYAww3FZtbp1wpD3Ym3pGh3KHGh9
 jd_cloud_key = 'snowflake.jdbc.password=B95267B8-8585-1936-94B0-960afa0409da'
 jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKadypWcRuW'
 
-  
-#newrelic:
-new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
-- text: |
-    "admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
-  apikey: NRAA-4780f48c46df5882dbec0fd81c7
+- text: +//registry.leaking-repos.com/:_authToken=npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-- text: |
-    "newrelic admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
-  apikey: NRAA-4780f48c46df5882dbec0fd81c7
+- text: +//192.168.88.9:8081/repository/npmlocal/:_authToken=npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-#newrelic1:
-- text: 'newrelic.license="8722b5ba69b65e1ebbd98ffed2754c7e10320730'
-  apikey: 8722b5ba69b65e1ebbd98ffed2754c7e10320730
-- text: 'newrelic license_key: b983cd792c02f2e2cd3c896c826f6b156b44137f'
-  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
-- text: 'newrelic license_key:b983cd792c02f2e2cd3c896c826f6b156b44137f'
-  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
-- text: "new relic license_key: 'b983cd792c02f2e2cd3c896c826f6b156b44137f'"
-  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
-- text: "new_relic license_key='b983cd792c02f2e2cd3c896c826f6b156b44137f'"
-  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
-- text: "new-relic license_key b983cd792c02f2e2cd3c896c826f6b156b44137f'"
-  apikey: b983cd792c02f2e2cd3c896c826f6b156b44137f
-- text: '& "c:\newrelic\install.cmd" -LicenseKey 5b770a55f62576aeebc63fb31ee3fb73d134ab44 -InstrumentAll'
-  apikey: 5b770a55f62576aeebc63fb31ee3fb73d134ab44
-- text: 'ENV NEWRELIC_KEY af692bf0c7e064b9f1cd4a207ff5e7431203b6cb'
-  apikey: af692bf0c7e064b9f1cd4a207ff5e7431203b6cb
-- text: |
-    api.newrelic.com/deployments.xml',
-             'key' => [
-                    'x-api-key' => '67da5cddd6995dfe8bb628434a43b2fa5aabdedf
-  apikey: 67da5cddd6995dfe8bb628434a43b2fa5aabdedf
-- text: newrelic.license="8722b5ba69b65e1ebbd98ffed2754c7e10320730
-  apikey: 8722b5ba69b65e1ebbd98ffed2754c7e10320730
+- text: '"_authToken": "npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-- text: |
-    "APIKEY: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9"
-  apikey: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9
-
-- text: |
-    "new relic APIKEY: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9"
-  apikey: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9
-
-#newrelicapm:
-- text: 'NewRelicApmKey=06322a89ef4a5517e44dc86162e44eade11aNRAL'
-  apikey: 06322a89ef4a5517e44dc86162e44eade11aNRAL
-
-- text: '# USA APM key: ud13xxda1139e3ea61ce3d966485c74c5138NRAL'
-  apikey: ud13xxda1139e3ea61ce3d966485c74c5138NRAL
-
-- text: |
-    my new_relic API KEY
-    # USA APM key: ud13xxaa1139e3ea61ce3d966485c74c5138NRAL
-  apikey: ud13xxaa1139e3ea61ce3d966485c74c5138NRAL
-
-#newrelicinsight:
-- text: |
-    "# class to insert insights NR
-    NRII(key=NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir)"
-  apikey: NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir
-
-- text: |
-    "# class to insert insights NEWRELIC
-    NRII(key=NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir)"
-  apikey: NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir
+- text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
