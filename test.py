@@ -15,6 +15,4 @@ response = requests.get('https://todiaccount56.documents.azure.com:443', {'Accou
 
 DropboxAccessKey : sl.Bia6AMXdKF_m63pGFYe9Yuxgb59FyThPXKPxZaW-6zfsut08ZCcVf8ptT8m61zSk3qi_wMEMADO1J9Eyzz-Z5DaKH7P1y59FqX6VgStdAzV-OPSzcvFul1jPilpe69aFmUDXK75
 
-source = "git::https://username:glpat-YEyo-pXeTaAECYKLSk5K@gitlab.com/myrepo.git"
---header 'PRIVATE-TOKEN: glrt-1unZyccXQltB6ZsVy2ws' 'https://gitlab.example.com/api/v4/runners'
-https://gitlab.com/api/v4/projects/47613188/ref/REF_NAME/trigger/pipeline?token=glptt-9440d03716e4323115e84b7ac62f30e70dad6653
+GoCardless = 'live_ODk5MzE4IitfefI6InR0LWYiLCJrIjoia04zM0h7v
