@@ -50,6 +50,9 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-SlackHook1: 'xoxp-123456123456-123456123456-123456123456-12345678123456781234567812345678
-
- ekops_spot_termination_handler_slackurl: \"https://hooks.slack.com/services/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\
+- text: |
+    email_subscription_slack: "https://hooks.slack.com/services/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"
+  apikey: hooks.slack.com/services/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
+- text: |
+    email_subscription_slack: "https://hooks.slack.com/services/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"
+  apikey: hooks.slack.com/services/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
