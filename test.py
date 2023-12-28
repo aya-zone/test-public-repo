@@ -55,3 +55,5 @@ curl -X POST -H "Content-Type: application/json" -d '{"name": "my-api-key", "rol
 - text: |
     UNSEAL KEY: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
   apikey: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+
+token = "hvs.CAESIAVOUNSKFoTnRYghjutnkl7bYyI0YFINKf1BEInyd63PG1gKImk3cy9IDmJTtLJLOEZ2QYp6bUY5c0MCcLJvS1ouenF9YJkQqNks"
