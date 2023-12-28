@@ -81,3 +81,15 @@ new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
 - text: |
     "new relic APIKEY: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9"
   apikey: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9
+
+#newrelicapm:
+- text: 'NewRelicApmKey=06322a89ef4a5517e44dc86162e44eade11aNRAL'
+  apikey: 06322a89ef4a5517e44dc86162e44eade11aNRAL
+
+- text: '# USA APM key: ud13xxda1139e3ea61ce3d966485c74c5138NRAL'
+  apikey: ud13xxda1139e3ea61ce3d966485c74c5138NRAL
+
+- text: |
+    my new_relic API KEY
+    # USA APM key: ud13xxaa1139e3ea61ce3d966485c74c5138NRAL
+  apikey: ud13xxaa1139e3ea61ce3d966485c74c5138NRAL
