@@ -93,3 +93,14 @@ new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
     my new_relic API KEY
     # USA APM key: ud13xxaa1139e3ea61ce3d966485c74c5138NRAL
   apikey: ud13xxaa1139e3ea61ce3d966485c74c5138NRAL
+
+#newrelicinsight:
+- text: |
+    "# class to insert insights NR
+    NRII(key=NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir)"
+  apikey: NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir
+
+- text: |
+    "# class to insert insights NEWRELIC
+    NRII(key=NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir)"
+  apikey: NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir
