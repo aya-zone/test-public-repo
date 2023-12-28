@@ -35,7 +35,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"name": "my-api-key", "rol
 
 # response from the api
 {"id":2,"name":"my-api-key","key":"eyJrIjoiTFRSN1RBOVc3SGhjblc0bWZodXZ3MnNDcU92Um5VZUIiLKJuIjoibXktYXBpLWtleSIsImlkIjoxfQ=="}%
-
+#hashicorp:
 - text: |
     spring.cloud.vault.token=hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
   apikey: hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
@@ -43,3 +43,15 @@ curl -X POST -H "Content-Type: application/json" -d '{"name": "my-api-key", "rol
 - text: |
     VAULT_CLIENT_TOKEN="s.Z4bTMtngfLeQ18AqVoBBkUAOD1"
   apikey: s.Z4bTMtngfLeQ18AqVoBBkUAOD1
+
+- text: |
+    VAULT_UNSEAL_KEY_3="C3fk5Q0ANMFlbjQk4E0MKD8xRdNW0YbLA/0pfMSWEouI"
+  apikey: C3fk5Q0ANMFlbjQk4E0MKD8xRdNW0YbLA/0pfMSWEouI
+
+- text: |
+    UNSEAL_KEY: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+  apikey: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+
+- text: |
+    UNSEAL KEY: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+  apikey: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
