@@ -1,8 +1,4 @@
 import requests
-import gcp
-
-password = "AIzaSyCzmABOfcTbibaP_VmZPsFn0q3Ro2sXlHQ"
-password = "AIzaSyCzmABOfcTbibbP_VmZPsFn0q3Ro2sXlHQ"
 
 response = requests.get('http://google.com', {'password': password})
 "AWS_ACCESS_KEY_ID": "AKIAUHD5AAQAAAAQAY1Z"
@@ -63,17 +59,6 @@ hashicorp_token = "hvs.CAESIJRM-T1q5lEjIWux1Tjx-sVGqAYAww3FZtbp1wpD3Ym3pGh3KHGh9
 jd_cloud_key = 'snowflake.jdbc.password=B95267B8-8585-1936-94B0-960afa0409da'
 jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKadypWcRuW'
 
-#mailchimp:
-- text: |
-    curl -H "Authorization: Bearer ae54fcc23ade65fa404a65e78c56f898-us1" \
-    https://api.linode.com/v4/account
-  apikey: ae54fcc23ade65fa404a65e78c56f898-us1
-
-#mailgun:
-- text: |
-    curl -H "Authorization: Bearer key-ae54fcc23ade65fa404a65e78c56f898 
-    https://api.linode.com/v4/account
-  apikey: key-ae54fcc23ade65fa404a65e78c56f898
   
 #newrelic:
 - text: |
