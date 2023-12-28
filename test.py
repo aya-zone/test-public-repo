@@ -17,3 +17,4 @@ client_id: 537478574101-4jl4d9jikg9ikn4rtcbr3sfnlt6cqce4.apps.googleusercontent.
 "client_id": "537478574101-4jl4d9jikg9ikn4rtcbr3sfnlt6cqce4.apps.googleusercontent.com" #googleoauthid
 google_access_token : "ya29.AHES67zeEn-RDg9AC5gGKMLKuG4uVB7W4O4WjNr-NBfY6Dyer4vbIZ" #googleoauth
 "client_secret" : "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" #GoogleOAuthSecret
+'https://chat.googleapis.com/v1/spaces/AAAAH1W-wEM/messages?key=AIzaSyBbI0tEjhCZ6vySMm-WEfRttK3CPzttsHI&token=CalMPzURGJeIDs7yjM6V-nfK2xjoKYb297Omk_wI9Gs%3D'
