@@ -51,5 +51,9 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
 - text: |
-    password: pscale_pw_at5EOBhWFbGEp8ogeb6nLeh0pDJGr9ogpWltgq4waM7
-  password: pscale_pw_at5EOBhWFbGEp8ogeb6nLeh0pDJGr9ogpWltgq4waM7
+    PLANETSCALE_TOKEN_NAME="khgf9jbsrx1l"
+    PLANETSCALE_TOKEN="pscale_tkn_m_ABffR3bVXQn83xueOUpYrJlA3V7DfnoTVaaSlHCyZ"
+    PLANETSCALE_ORG=gg-org
+  client_id: khgf9jbsrx1l
+  apikey: pscale_tkn_m_ABffR3bVXQn83xueOUpYrJlA3V7DfnoTVaaSlHCyZ
+  organization: gg-org
