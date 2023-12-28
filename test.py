@@ -73,3 +73,11 @@ new_relic_secret = 'AAab3ecd78ef81ea312afbcd135efa245545bcd4ee'
   apikey: 67da5cddd6995dfe8bb628434a43b2fa5aabdedf
 - text: newrelic.license="8722b5ba69b65e1ebbd98ffed2754c7e10320730
   apikey: 8722b5ba69b65e1ebbd98ffed2754c7e10320730
+
+- text: |
+    "APIKEY: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9"
+  apikey: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9
+
+- text: |
+    "new relic APIKEY: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9"
+  apikey: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9
