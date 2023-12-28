@@ -29,3 +29,5 @@ string grafanaApiToken = "eyJrIjoiNDA9MDMyMjc7MDhlODcwZmE1MTJmNmQ6OGEwMzJjZjQ0Zm
     // Add grafana_TOKEN to your environment variables
     string token = "eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk"
   apikey: eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk
+{"id":2,"name":"my-service-account-token","key":"glsa_9244xlVFZK0j8Lh4fU8Cz6Z5tO664zIi_7a762939"}%
+
