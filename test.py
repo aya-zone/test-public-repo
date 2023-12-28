@@ -68,3 +68,9 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
     curl -H "Authorization: Bearer ae54fcc23ade65fa404a65e78c56f898-us1" \
     https://api.linode.com/v4/account
   apikey: ae54fcc23ade65fa404a65e78c56f898-us1
+
+#mg:
+- text: |
+    curl -H "Authorization: Bearer key-ae54fcc23ade65fa404a65e78c56f898 
+    https://api.linode.com/v4/account
+  apikey: key-ae54fcc23ade65fa404a65e78c56f898
