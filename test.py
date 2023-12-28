@@ -60,4 +60,5 @@ token = "hvs.CAESIAVOUNSKFoTnRYghjutnkl7bYyI0YFINKf1BEInyd63PG1gKImk3cy9IDmJTtLJ
 
 hashicorp_token = "hvs.CAESIJRM-T1q5lEjIWux1Tjx-sVGqAYAww3FZtbp1wpD3Ym3pGh3KHGh9cy5TSjRndGoxaU32NzNscm4MSlRLQXZ0ZGg"
 
-jd_cloud_kry = 'snowflake.jdbc.password=B95267B8-8585-1936-94B0-960afa0409da'
+jd_cloud_key = 'snowflake.jdbc.password=B95267B8-8585-1936-94B0-960afa0409da'
+jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKadypWcRuW'
