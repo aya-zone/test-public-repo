@@ -50,7 +50,9 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-- text: 'Authorization: Bearer sq0atp-galzvO-5aJ37J_yV-KO1oQ'
-  apikey: sq0atp-galzvO-5aJ37J_yV-KO1oQ
-- text: 'sq0atp-NgXnwnDdVQr2du0O2MAieg'
-  apikey: sq0atp-NgXnwnDdVQr2du0O2MAieg
+- text: '+  stripe_secret_key: rk_live_epISNGSkdeXov2frTey7RHAi'
+  apikey: rk_live_epISNGSkdeXov2frTey7RHAi
+- text: '#   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV8H'
+  apikey: sk_live_EeHnL644i6zo4Iyq4v1KdV8H
+- text: 'stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H'
+
