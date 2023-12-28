@@ -25,3 +25,7 @@ grafana_sa_token = "glsa_Vyci1dSmp1xaSMqIma4wlc1f1mBzCzX6_a674d176"
   apikey: glsa_bAHjRcDfeZDKu0OqlR41bIbfCW9icC6b_6c3478fb
 cloudApiKey = 'glc_eyJvIjoiODk5MzE4IiwibiI6InR0LWYiLCJrIjoia59zM0h5M1VBRUkxVzAxeEVvMDEyUFMxIiwibSI5eyJyIjoidXMifX0='
 string grafanaApiToken = "eyJrIjoiNDA9MDMyMjc7MDhlODcwZmE1MTJmNmQ6OGEwMzJjZjQ0ZmRhYmJlMyIsIm4iOiJUb36lciBOYXRhbnpvbjEiLCJpZCI6ODk5MzE6fQ"
+- text: |
+    // Add grafana_TOKEN to your environment variables
+    string token = "eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk"
+  apikey: eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk
