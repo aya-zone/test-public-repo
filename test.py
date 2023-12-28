@@ -49,7 +49,10 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
-
-    var Twilio = require('twilio'); +var fs = require('fs'); +var path = require('path'); + +var apiKeySid='SK1fe059e17c773de4c071a57f9f975873'; +var apiKeySecret='4BDNaWxPP5naXdt54Fb4KwAWkfNohej8'
-  client_id: 'SK1fe059e17c773de4c071a57f9f975873'
-  client_secret: '4BDNaWxPP5naXdt54Fb4KwAWkfNohej8'
+- text: |
+    from twilio.rest import Client
+    account_sid = "AC598fdd1a56846658f660652ed4810395"
+    auth_token = "ce2337ad21d390367e018828cef2b0ef"
+    client = Client(account_sid, auth_token)
+  client_id: AC598fdd1a56846658f660652ed4810395
+  client_secret: ce2337ad21d390367e018828cef2b0ef
