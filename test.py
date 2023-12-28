@@ -62,3 +62,4 @@ token = "hvs.CAESIAVOUNSKFoTnRYghjutnkl7bYyI0YFINKf1BEInyd63PG1gKImk3cy9IDmJTtLJ
 - text: |
     "token": "yaALfD5CKdorzg.atlasv1.K1lUlJwaAZ0MAAIVakIUVJnfcwkrz9feswayIacpYfY6el7AM5QpUlgbbVoHFfnG8kQ"
   TERRAFORM_apikey: yaALfD5CKdorzg.atlasv1.K1lUlJwaAZ0MAAIVakIUVJnfcwkrz9feswayIacpYfY6el7AM5QpUlgbbVoHFfnG8kQ
+hashicorp_token = "hvs.CAESIJRM-T1q5lEjIWux1Tjx-sVGqAYAww3FZtbp1wpD3Ym3pGh3KHGh9cy5TSjRndGoxaU32NzNscm4MSlRLQXZ0ZGg"
