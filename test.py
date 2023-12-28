@@ -50,10 +50,4 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-- text: |
-    PLANETSCALE_TOKEN_NAME="khgf9jbsrx1l"
-    PLANETSCALE_TOKEN="pscale_tkn_m_ABffR3bVXQn83xueOUpYrJlA3V7DfnoTVaaSlHCyZ"
-    PLANETSCALE_ORG=gg-org
-  client_id: khgf9jbsrx1l
-  apikey: pscale_oauth_m_ABffR3bVXQn83xueOUpYrJlA3V7DfnoTVaaSlHCyZ
-  organization: gg-org
+Postman:PMAK-64ae68ef074edf00463a0b81-37a191bbcccf96f42384c0d37138b31234
