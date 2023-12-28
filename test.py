@@ -41,19 +41,24 @@ curl -X POST -H "Content-Type: application/json" -d '{"name": "my-api-key", "rol
   apikey: hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
 
 - text: |
-    VAULT_CLIENT_TOKEN="s.Z4bTMtngfLeQ18AqVoBBkUAOD1"
+     HASHICORP_VAULT_CLIENT_TOKEN="s.Z4bTMtngfLeQ18AqVoBBkUAOD1"
   apikey: s.Z4bTMtngfLeQ18AqVoBBkUAOD1
 
 - text: |
-    VAULT_UNSEAL_KEY_3="C3fk5Q0ANMFlbjQk4E0MKD8xRdNW0YbLA/0pfMSWEouI"
+    HASHICORP_VAULT_UNSEAL_KEY_3="C3fk5Q0ANMFlbjQk4E0MKD8xRdNW0YbLA/0pfMSWEouI"
   apikey: C3fk5Q0ANMFlbjQk4E0MKD8xRdNW0YbLA/0pfMSWEouI
 
 - text: |
-    UNSEAL_KEY: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+    UNSEAL_KEY_HASHICORP: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
   apikey: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
 
 - text: |
-    UNSEAL KEY: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+    UNSEAL_KEY_HASHICORP: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
   apikey: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
 
 token = "hvs.CAESIAVOUNSKFoTnRYghjutnkl7bYyI0YFINKf1BEInyd63PG1gKImk3cy9IDmJTtLJLOEZ2QYp6bUY5c0MCcLJvS1ouenF9YJkQqNks"
+
+#terraform:
+- text: |
+    "token": "yaALfD5CKdorzg.atlasv1.K1lUlJwaAZ0MAAIVakIUVJnfcwkrz9feswayIacpYfY6el7AM5QpUlgbbVoHFfnG8kQ"
+  TERRAFORM_apikey: yaALfD5CKdorzg.atlasv1.K1lUlJwaAZ0MAAIVakIUVJnfcwkrz9feswayIacpYfY6el7AM5QpUlgbbVoHFfnG8kQ
