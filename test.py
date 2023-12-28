@@ -56,3 +56,5 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: |
     email_subscription_slack: "https://hooks.slack.com/services/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"
   apikey: hooks.slack.com/services/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
+client_id: sq0idp-Y7WFLOjXXp00XXXp00_0_A
+  client_secret: sq0csp-WnMisBjD0DtEoYeM0ZK7Bi1_cXb0X0oRCN0djXcXXX0
