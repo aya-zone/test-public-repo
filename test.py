@@ -50,13 +50,7 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-- text: |
-    email_subscription_slack: "https://hooks.slack.com/services/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"
-  apikey: hooks.slack.com/workflows/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
-- text: |
-    email_subscription_slack: "https://hooks.slack.com/services/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"
-  apikey: hooks.slack.com/services/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
-client_id: sq0idp-Y7WFLOjXXp00XXXp00_0_A
-  client_secret: sq0csp-WnMisBjD0DtEoYeM0ZK7Bi1_cXb0X0oRCN0djXcXXX0
-
-SquareAccessToken=EAAAFD8ilN11E0Rwp2KpmfJ0ZlkJ8RuWH6JiDbDX_LncpKFmMPF12a3sf5gt6_CO
+- text: 'Authorization: Bearer sq0atp-galzvO-5aJ37J_yV-KO1oQ'
+  apikey: sq0atp-galzvO-5aJ37J_yV-KO1oQ
+- text: 'sq0atp-NgXnwnDdVQr2du0O2MAieg'
+  apikey: sq0atp-NgXnwnDdVQr2du0O2MAieg
