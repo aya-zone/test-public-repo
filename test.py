@@ -51,5 +51,5 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
 - text: |
-    password: pscale_pw_at5EOBhWFbGE_8ogeb6nLeh0pDJGr9og_Wltgq4waM7
-  password: pscale_pw_at5EOBhWFbGE_8ogeb6nLeh0pDJGr9og_Wltgq4waM7
+    password: pscale_pw_at5EOBhWFbGEp8ogeb6nLeh0pDJGr9ogpWltgq4waM7
+  password: pscale_pw_at5EOBhWFbGEp8ogeb6nLeh0pDJGr9ogpWltgq4waM7
