@@ -13,6 +13,4 @@ AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey
 
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
-DropboxAccessKey : sl.Bia6AMXdKF_m63pGFYe9Yuxgb59FyThPXKPxZaW-6zfsut08ZCcVf8ptT8m61zSk3qi_wMEMADO1J9Eyzz-Z5DaKH7P1y59FqX6VgStdAzV-OPSzcvFul1jPilpe69aFmUDXK75
-
-GoCardless = 'live_ODk5MzE4IitfefI6InR0LWYiLCJrIjoia04zM0h7v
+client_id: 537478574101-4jl4d9jikg9ikn4rtcbr3sfnlt6cqce4.apps.googleusercontent.com
