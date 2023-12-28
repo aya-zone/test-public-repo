@@ -50,5 +50,4 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 - text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
   apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
 
-- text: tfp_7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy_A4zqf7DHWHV
-  apikey: tfp_7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy_A4zqf7DHWHV
+typeform-pat = 'tfp_7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy_A4zqf7DHWHV'
