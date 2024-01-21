@@ -55,7 +55,8 @@ typeform_pat = 'tfp_7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy_A4zqf7DHWHVa1s'
 typeform_key = '7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy'
 'client_id=6b15ec8b9619450698eef2295607a789&client_secret=p8e-K6D70g74dowjhoIxN4DJh09APV6rVxND&scope=openid,AdobeID,DCAPI'
 
-
+// ruleid: adobe-client-id
+adobe_api_token = "90ade2687249df5f415099b431b31fae"
 
 set PDF_SERVICES_CLIENT_ID=6298b572a5784d10b72a5ce7086a69fc
 set PDF_SERVICES_CLIENT_SECRET=p8e-a1gbryrdRlvZkumGMisQxWg2d52428gI
