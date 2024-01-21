@@ -53,6 +53,9 @@ jfrog_key = 'AKCp8oiHHT23xDyNaasrn3wwu1oXsHE4vcfcfudiGZU723EpM6KpNM3zEkan6ntKady
 typeform_access_token = 'tfp_7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy_A4zqf7DHWHV'
 typeform_pat = 'tfp_7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy_A4zqf7DHWHVa1s'
 typeform_key = '7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy'
+'client_id=6b15ec8b9619450698eef2295607a789&client_secret=p8e-K6D70g74dowjhoIxN4DJh09APV6rVxND&scope=openid,AdobeID,DCAPI'
+
+
 
 set PDF_SERVICES_CLIENT_ID=6298b572a5784d10b72a5ce7086a69fc
 set PDF_SERVICES_CLIENT_SECRET=p8e-a1gbryrdRlvZkumGMisQxWg2d52428gI
