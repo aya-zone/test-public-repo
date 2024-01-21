@@ -56,3 +56,17 @@ typeform_key = '7WFQWSGHDTABF7D3NHwtLgyNXiwiXkLuCPYSGD83KPEy'
 
 
 adobe_key = '325c78ab55424cfe98a3b437ef7487c8'
+adobe_client_secret = ''- text: |
+    POST https://ims-na1.adobelogin.com/ims/exchange/jwt
+    api_key: "a4123cbde48947d4a06192428326847d",
+    client_secret: "ef12a3cd-8268-40ce-8c83-ab69f9564546",
+  client_id: a4123cbde48947d4a06192428326847d
+  client_secret: ef12a3cd-8268-40ce-8c83-ab69f9564546
+  # Pattern observed in historical data
+
+- text: |
+    adobe.io
+    body: client_id=3681437dddfbb013b893312cc3412ecf&client_secret=4FS-bbbEnJaXB4Cg6aeHzUBWebUZxBciaZ_O
+  client_id: 3681437dddfbb013b893312cc3412ecf
+  client_secret: 4FS-bbbEnJaXB4Cg6aeHzUBWebUZxBciaZ_O
+  # Pattern observed when creating new credentials
