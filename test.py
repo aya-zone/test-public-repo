@@ -64,3 +64,7 @@ set PDF_SERVICES_CLIENT_SECRET=p8e-a1gbryrdRlvZkumGMisQxWg2d52428gI
 adobe_api_key: "0564cay0c3dc4853be1bace4a2023805"
 adobe_client_secret: "p8e-W77nXDDjY_82Kd8lfiMVKjmNFQPAU5zV"
 adobe_client_id = 69dec28238gy4bebac56643l051l6d82
+
+CONFLUENCE_API="8WqcdT4tvIZtCjtDqReF48B4"
+sct.jiraAuthToken=3k3NgTcFTCySkToABttt429D
+
