@@ -67,4 +67,5 @@ adobe_client_id = 69dec28238gy4bebac56643l051l6d82
 
 CONFLUENCE_API="8WqcdT4tvIZtCjtDqReF48B4"
 sct.jiraAuthToken=3k3NgTcFTCySkToABttt429D
+vercel-token: sp0Jjdbr8qgwVrlM00FDxHDE
 
