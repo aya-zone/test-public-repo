@@ -70,3 +70,5 @@ sct.jiraAuthToken=3k3NgTcFTCySkToABttt429D
 vercel-token: sp0Jjdbr8qgwVrlM00FDxHDE
 TRAVIS_TOKEN="WKto9_eZf3lNw28shCfaHz"
 travisCiApi: 'mzKV_MCUEzIXMCCc9vErCn'
+
+dynatrace_api_token = bq43DGxttIxUukgJ-N6eP
