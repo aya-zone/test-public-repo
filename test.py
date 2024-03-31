@@ -72,3 +72,4 @@ TRAVIS_TOKEN="WKto9_eZf3lNw28shCfaHz"
 travisCiApi: 'mzKV_MCUEzIXMCCc9vErCn'
 
 dynatrace_api_token = 'bq43DGxytIxUukgJ-N6ey'
+dynatrace_internal_token: 'cq43-DGxytIxUukgJ-6ey'
