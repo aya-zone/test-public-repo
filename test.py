@@ -73,3 +73,6 @@ travisCiApi: 'mzKV_MCUEzIXMCCc9vErCn'
 
 dynatraceToken = 'dt0c01.ST2EY72KQINMH574WMNVI7YN.L3DFOBEDIMODIDAEX894M7JWBIVDEOYQARVWWFASS34NEH59ZX6BNDXFFM572RMA'
 dynatrace_internal_token: 'cq43-DGxytIxUukgJ-6ey'
+curl --request GET \
+  --url https://api.dynatrace.com/iam/v1/accounts/2b794097-8ad2-4b32-b923-0131da2eeddf/users \
+  --header 'Authorization: Bearer abcdefjhij1234567890' \
