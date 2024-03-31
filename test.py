@@ -71,5 +71,5 @@ vercel-token: sp0Jjdbr8qgwVrlM00FDxHDE
 TRAVIS_TOKEN="WKto9_eZf3lNw28shCfaHz"
 travisCiApi: 'mzKV_MCUEzIXMCCc9vErCn'
 
-dynatrace_api_token = 'Xyg8po0QTy-k5GDE90LWk'
+dynatraceToken = 'dt0c01.ST2EY72KQINMH574WMNVI7YN.L3DFOBEDIMODIDAEX894M7JWBIVDEOYQARVWWFASS34NEH59ZX6BNDXFFM572RMA'
 dynatrace_internal_token: 'cq43-DGxytIxUukgJ-6ey'
