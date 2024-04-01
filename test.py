@@ -78,3 +78,4 @@ dynatrace_internal_token: 'cq43-DGxytIxUukgJ-6ey'
 curl --request GET \
   --url https://api.dynatrace.com/iam/v1/accounts/2b794097-8ad2-4b32-b923-0131da2eeddf/users \
   --header 'Authorization: Bearer abcdefjhij1234567890' \
+//api.postman.com/collections/4714469-2b32c9da-aad4-4e9e-baee-6c11be6798a3?access_key=PMAT-01HG1KVDXGGKH62KT141MBC0Z)
