@@ -81,3 +81,6 @@ curl --request GET \
   --header 'Authorization: Bearer abcdefjhij1234567890' \
 //api.postman.com/collections/4714469-2b32c9da-aad4-4e9e-baee-6c11be6798a3?access_key=PMAT-01HG1KVDXGGKH62KT141MBC0Z)
 
+"client id =  ABIAK52LPFORPRUCEC12"
+aws_access_key_id: ACCAY50FZKBOKMUTVV7A
+
