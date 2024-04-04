@@ -64,6 +64,7 @@ set PDF_SERVICES_CLIENT_SECRET=p8e-a1gbryrdRlvZkumGMisQxWg2d52428gI
 adobe_api_key: "0564cay0c3dc4853be1bace4a2023805"
 adobe_client_secret: "p8e-W77nXDDjY_82Kd8lfiMVKjmNFQPAU5zV"
 adobe_client_id = 69dec28238gy4bebac56643l051l6d82
+adobe_secret = "3AAABLblqKlHobt6zP-mNdxv66gq1Y-WAi6GQLhR6dsfl-pmNinbf6dUhF_qEFPlMAZO6_LoEkLa-yXlXcSDHIDVOr0ZxER6-"
 
 CONFLUENCE_API="8WqcdT4tvIZtCjtDqReF48B4"
 sct.jiraAuthToken=3k3NgTcFTCySkToABttt429D
@@ -79,3 +80,4 @@ curl --request GET \
   --url https://api.dynatrace.com/iam/v1/accounts/2b794097-8ad2-4b32-b923-0131da2eeddf/users \
   --header 'Authorization: Bearer abcdefjhij1234567890' \
 //api.postman.com/collections/4714469-2b32c9da-aad4-4e9e-baee-6c11be6798a3?access_key=PMAT-01HG1KVDXGGKH62KT141MBC0Z)
+
