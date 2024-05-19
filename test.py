@@ -7,7 +7,7 @@ AzureToken: 'Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJ
 cosmosDbToken: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
 AzureCosmosPassword: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
 AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey=Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
-
+AzureStorageAccessKey: "Y17weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2i0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw=="
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
 #hashicorp:
