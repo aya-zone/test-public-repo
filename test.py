@@ -87,3 +87,6 @@ adobe_token = eyJhbGciOiJSUzI1NiJ9.eyJleHAiOjE3MTI1Njc1NTMsImlzcyI6Ijc0OTMxODA0O
 
 azuredevops = 'https://drllzlkxsbkhrw6urfc3ek5npou3f6lyd5jsdhs54ogms52rdz4q@mysamplegroup.visualstudio.com:22/MyTeam/_git/DSProject1'
       "headers": { "Ocp-Apim-Subscription-Key": "bf7ccc0207494d5ea601f10af51ecfff" }
+mapbox_access_token = "pk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
+mapbox_access_token2 = "tk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3BvM253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
+mapbox_access_token3 = "pk.eyJ1IjoieHdwaXNtZSIsImEiOiJ5cTlCQTlRIn0.QdV-wNUKbgs7jAlbVE747Q"
