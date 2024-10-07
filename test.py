@@ -90,3 +90,6 @@ azuredevops = 'https://drllzlkxsbkhrw6urfc3ek5npou3f6lyd5jsdhs54ogms52rdz4q@mysa
 mapbox_access_token = "pk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
 mapbox_access_token2 = "tk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3BvM253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
 mapbox_access_token3 = "pk.eyJ1IjoieHdwaXNtZSIsImEiOiJ5cTlCQTlRIn0.QdV-wNUKbgs7jAlbVE747Q"
+
+mapbox_token = "pk.ZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aVlXUnRhVzRpT25SeWRXVXNJbWxoZENJNk1UVXhOakl6T1RBeU1uMA.WneUon5qFigfJRJ3oaZ3Ow"
+
