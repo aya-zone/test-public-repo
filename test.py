@@ -10,7 +10,7 @@ AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey
 AzureStorageAccessKey: "Y17weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2i0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw=="
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
-intercom_key = 'dG8r8jRjNTY5NmVmX2E0M2ZlDCFlYl85ZDRmXzEwY2FmYjhjMzA3YjoxOjA='
+intercom_acces_token = 'dG8r8jRjNTY5NmVmX2E0M2ZlDCFlYl85ZDRmXzEwY2FmYjhjMzA3YjoxOjA='
 #hashicorp:
 - text: |
     spring.cloud.vault.token=hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
