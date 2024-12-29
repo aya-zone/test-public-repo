@@ -7,7 +7,7 @@ AzureToken: 'Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJ
 cosmosDbToken: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
 AzureCosmosPassword: Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
 AzureAccountEndpoint=https://<database name>.documents.azure.com:443/;AccountKey=Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29eeXJpZ2h0Y29weXJtZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw==
-AzureStorageAccessKey: "Y17weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2i0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw=="
+AzureStorageAccessKey: "Y17weXJpZ2h9Y29weXJpZ2h0Y29weXJpZ2i0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Yw=="
 response = requests.get('https://todiaccount56.documents.azure.com:443', {'AccountKey': AzureToken})
 
 intercom_acces_token = 'dG8r8jRjNTY5NmVmX2E0M2ZlDCFlYl85ZDRmXzEwY2FmYjhjMzA3YjoxOjA='
