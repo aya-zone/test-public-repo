@@ -1,1 +1,2 @@
 slack_bot_token = "xoxb-611859708931-7873471327554-lyRFMpf7LHlYxVym1qe7izPv"
+slack_bot_token = "xoxb-611859708931-6873471327554-lyRFMpf7LHlYxVym1qe7izPv"
